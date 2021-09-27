@@ -1,3 +1,12 @@
+## Starter Pack APP
+
+Schooling / learning from home can confuse many people especially those who who are not familiar with technology. So this website is developed to help educate people about how to use certain technologies, such as LMS system and Video Conferencing application online. We collect youtube's source as the material.
+
+This website is developed by me and my team to participate Olimpade Vokasi Indonesia (OLIVIA) 2020 Web Design Competition that held in Fakultas Vokasi Institut Teknologi Sepuluh Nopember.
+
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
